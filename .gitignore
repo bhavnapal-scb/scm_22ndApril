@@ -1,0 +1,6 @@
+data.tmp
+user_data.properties
+*.properties
+*.tmp
+
+/private/
